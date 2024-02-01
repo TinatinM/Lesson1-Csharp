@@ -1,0 +1,15 @@
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\bin\Debug\net6.0\Hmwrk.exe
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\bin\Debug\net6.0\Hmwrk.deps.json
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\bin\Debug\net6.0\Hmwrk.runtimeconfig.json
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\bin\Debug\net6.0\Hmwrk.dll
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\bin\Debug\net6.0\Hmwrk.pdb
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.csproj.AssemblyReference.cache
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.AssemblyInfoInputs.cache
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.AssemblyInfo.cs
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.csproj.CoreCompileInputs.cache
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.dll
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\refint\Hmwrk.dll
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.pdb
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\Hmwrk.genruntimeconfig.cache
+C:\Users\Тинатин\Desktop\GB\programing languages\lesson1\Hmwrk\obj\Debug\net6.0\ref\Hmwrk.dll
